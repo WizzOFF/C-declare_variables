@@ -6,4 +6,5 @@ int main(int argc, char *argv[]) // Équivalent de int main()
   int nombreDeVies;
      
   return 0;
+  /*a*/
 }
