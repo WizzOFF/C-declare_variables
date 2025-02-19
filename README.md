@@ -1,0 +1,1 @@
+# C-declare_variables
